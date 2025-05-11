@@ -1,0 +1,2 @@
+Note: 
+To make a folder a package in Python, we need to create the "__init__.py" file (Not to be used) in the folder. This tells Python to treat it as a Package where we can use sub-packages and also import modules

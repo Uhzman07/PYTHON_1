@@ -1,0 +1,4 @@
+To install
+pip install requests
+pip install lxml -- this is to check what is in the request
+pip install bs4 -- Th
